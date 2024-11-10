@@ -65,3 +65,5 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 中国石油支付宝小程序
 DOMAIN-SUFFIX,95504test.com
+# 局域网
+IP-CIDR,192.168.0.0/16,no-resolve
