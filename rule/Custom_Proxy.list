@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,clientservices.googleapis.com
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
 
+# stardew valley
+DOMAIN-SUFFIX,stardewvalley.net
+DOMAIN-SUFFIX,stardewvalleywiki.com
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,smapi.com
+DOMAIN-SUFFIX,nexus-cdn.com
+
 # Cloudflare DNS
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
