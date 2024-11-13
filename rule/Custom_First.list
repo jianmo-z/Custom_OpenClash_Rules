@@ -1,0 +1,12 @@
+# NAME: Custom_First
+# AUTHOR: jianmo-z
+# REPO: https://github.com/jianmo-z/Custom_OpenClash_Rules
+# 最高优先级
+
+# stardew valley
+DOMAIN-SUFFIX,stardewvalley.net
+DOMAIN-SUFFIX,stardewvalleywiki.com
+DOMAIN-SUFFIX,zh.stardewvalleywiki.com
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,smapi.com
+DOMAIN-SUFFIX,nexus-cdn.com
