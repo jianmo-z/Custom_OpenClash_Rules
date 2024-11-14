@@ -10,3 +10,7 @@ DOMAIN-SUFFIX,zh.stardewvalleywiki.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,smapi.com
 DOMAIN-SUFFIX,nexus-cdn.com
+
+
+# deepL Translate
+DOMAIN-SUFFIX,deepl.com
