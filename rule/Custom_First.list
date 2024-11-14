@@ -6,9 +6,17 @@
 # stardew valley
 DOMAIN-SUFFIX,stardewvalley.net
 DOMAIN-SUFFIX,stardewvalleywiki.com
-DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,smapi.com
+
+# n站mod
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,network-n.com
 DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,anonymised.io
+DOMAIN-SUFFIX,btloader.com
+DOMAIN-SUFFIX,pbxai.com
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 
 # deepL Translate
 DOMAIN-SUFFIX,deepl.com
