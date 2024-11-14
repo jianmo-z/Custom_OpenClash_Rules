@@ -12,17 +12,6 @@ DOMAIN-SUFFIX,smapi.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,network-n.com
 DOMAIN-SUFFIX,nexus-cdn.com
-DOMAIN-SUFFIX,anonymised.io
-DOMAIN-SUFFIX,btloader.com
-DOMAIN-SUFFIX,pbxai.com
-DOMAIN-SUFFIX,hotjar.com
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,pbstck.com
-DOMAIN-SUFFIX,moatads.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,paddle.com
-DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN-SUFFIX,googletagmanager.com
 
 # deepL Translate
 DOMAIN-SUFFIX,deepl.com
