@@ -6,6 +6,22 @@
 # 开发网站
 DOMAIN-SUFFIX,nodejs.org
 
+# stardew valley
+DOMAIN-SUFFIX,stardewvalley.com
+DOMAIN-SUFFIX,stardewvalley.net
+DOMAIN-SUFFIX,stardewvalleywiki.com
+DOMAIN-SUFFIX,smapi.com
+
+# n站mod
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,network-n.com
+DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,paddle.com
+
+# deepL Translate
+DOMAIN-SUFFIX,deepl.com
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
@@ -25,19 +41,3 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
-
-# stardew valley
-DOMAIN-SUFFIX,stardewvalley.com
-DOMAIN-SUFFIX,stardewvalley.net
-DOMAIN-SUFFIX,stardewvalleywiki.com
-DOMAIN-SUFFIX,smapi.com
-
-# n站mod
-DOMAIN-SUFFIX,nexusmods.com
-DOMAIN-SUFFIX,network-n.com
-DOMAIN-SUFFIX,nexus-cdn.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,paddle.com
-
-# deepL Translate
-DOMAIN-SUFFIX,deepl.com
