@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,smapi.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,network-n.com
 DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,paddle.com
 
 # deepL Translate
 DOMAIN-SUFFIX,deepl.com
