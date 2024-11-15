@@ -3,6 +3,8 @@
 # REPO: https://github.com/jianmo-z/Custom_OpenClash_Rules
 # 最高优先级
 
+# 开发网站
+DOMAIN-SUFFIX,nodejs.org
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
