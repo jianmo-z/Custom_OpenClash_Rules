@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,stardewvalley.net
 DOMAIN-SUFFIX,stardewvalleywiki.com
 DOMAIN-SUFFIX,smapi.com
 DOMAIN-SUFFIX,smapi.io
+DOMAIN-SUFFIX,jsdelivr.net
 
 # n站mod
 DOMAIN-SUFFIX,nexusmods.com
