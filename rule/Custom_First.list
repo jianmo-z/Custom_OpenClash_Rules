@@ -12,13 +12,16 @@ DOMAIN-SUFFIX,getpostman.com
 DOMAIN-SUFFIX,pstmn.io
 DOMAIN-SUFFIX,postman.co
 
-# stardew valley
+# 游戏
 DOMAIN-SUFFIX,stardewvalley.com
 DOMAIN-SUFFIX,stardewvalley.net
 DOMAIN-SUFFIX,stardewvalleywiki.com
 DOMAIN-SUFFIX,smapi.com
 DOMAIN-SUFFIX,smapi.io
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,pubgselfservice.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN-SUFFIX,krafton.com
 
 # n站mod
 DOMAIN-SUFFIX,nexusmods.com
