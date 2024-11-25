@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,gnome-look.org
 DOMAIN-SUFFIX,pling.com
 DOMAIN-SUFFIX,d2l.ai
+DOMAIN-SUFFIX,pydata.org
+DOMAIN-SUFFIX,matplotlib.org
+DOMAIN-SUFFIX,numpy.com
 
 
 # 游戏
