@@ -3,7 +3,7 @@
 # REPO: https://github.com/jianmo-z/Custom_OpenClash_Rules
 # 最高优先级
 
-# 开发网站
+# dev
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,jamovi.org
 DOMAIN-SUFFIX,githubusercontent.com
@@ -24,26 +24,6 @@ DOMAIN-SUFFIX,d2l.ai
 DOMAIN-SUFFIX,pydata.org
 DOMAIN-SUFFIX,matplotlib.org
 DOMAIN-SUFFIX,numpy.com
-
-
-# 游戏
-DOMAIN-SUFFIX,stardewvalley.com
-DOMAIN-SUFFIX,stardewvalley.net
-DOMAIN-SUFFIX,stardewvalleywiki.com
-DOMAIN-SUFFIX,smapi.com
-DOMAIN-SUFFIX,smapi.io
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,pubgselfservice.com
-DOMAIN-SUFFIX,pubg.com
-DOMAIN-SUFFIX,krafton.com
-DOMAIN-SUFFIX,pytorch.org
-
-# n站mod
-DOMAIN-SUFFIX,nexusmods.com
-DOMAIN-SUFFIX,network-n.com
-DOMAIN-SUFFIX,nexus-cdn.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,paddle.com
 
 # deepL Translate
 DOMAIN-SUFFIX,deepl.com
