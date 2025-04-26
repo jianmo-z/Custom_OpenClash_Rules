@@ -2,7 +2,7 @@
 
 # 定义变量
 REPO_API_URL="https://api.github.com/repos/vernesong/OpenClash/contents/dev?ref=package"
-RAW_FILE_PREFIX="https://gh-proxy.com/https://raw.githubusercontent.com/vernesong/OpenClash/package/dev"
+RAW_FILE_PREFIX="https://github.boki.moe/https://raw.githubusercontent.com/vernesong/OpenClash/package/dev"
 TEMP_FILE="openclash.apk"
 
 # 获取 JSON 数据并解析 .apk 文件名
@@ -90,6 +90,15 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 echo "GeoSite 数据库更新完成！"
+
+# 开始更新 GeoASN 数据库
+echo "开始更新 GeoASN 数据库..."
+/usr/share/openclash/openclash_geoasn.sh
+if [ $? -ne 0 ]; then
+  echo "GeoASN 数据库更新失败，请检查日志。"
+  exit 1
+fi
+echo "GeoASN 数据库更新完成！"
 
 # 开始更新大陆白名单
 echo "开始更新大陆白名单..."
