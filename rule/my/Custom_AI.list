@@ -8,5 +8,10 @@
 DOMAIN-SUFFIX,adapterhub.ml
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 
+# 302.ai
+DOMAIN-SUFFIX,302.ai
+DOMAIN-SUFFIX,salesmartly.com
+# DOMAIN-SUFFIX,googletagmanager.com
+
 # 域名关键字匹配
 # DOMAIN-KEYWORD,mirror
