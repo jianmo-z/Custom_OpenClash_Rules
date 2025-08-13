@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,pydata.org
 DOMAIN-SUFFIX,matplotlib.org
 DOMAIN-SUFFIX,numpy.com
 DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,transfer.xethub.hf.co
 
 # deepL Translate
 DOMAIN-SUFFIX,deepl.com
